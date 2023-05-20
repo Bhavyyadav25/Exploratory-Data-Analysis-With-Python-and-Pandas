@@ -1,0 +1,305 @@
+customer_id,age,gender,product_category,quantity,price
+1,35,Male,Clothing,2,50.99
+2,28,Female,Electronics,1,299.99
+3,45,Male,Home Decor,3,25.99
+4,52,Female,Clothing,2,59.99
+5,30,Male,Electronics,1,499.99
+6,41,Female,Home Decor,2,19.99
+7,37,Male,Electronics,1,399.99
+8,29,Female,Clothing,1,39.99
+9,34,Male,Clothing,3,45.99
+10,31,Female,Home Decor,2,15.99
+11,40,Male,Clothing,2,55.99
+12,27,Female,Electronics,1,149.99
+13,36,Male,Home Decor,3,29.99
+14,50,Female,Clothing,2,49.99
+15,33,Male,Electronics,1,599.99
+16,38,Female,Home Decor,2,24.99
+17,31,Male,Electronics,1,449.99
+18,26,Female,Clothing,1,29.99
+19,33,Male,Clothing,3,39.99
+20,29,Female,Home Decor,2,17.99
+21,39,Male,Clothing,2,51.99
+22,25,Female,Electronics,1,199.99
+23,34,Male,Home Decor,3,22.99
+24,49,Female,Clothing,2,54.99
+25,32,Male,Electronics,1,349.99
+26,42,Female,Home Decor,2,18.99
+27,36,Male,Electronics,1,299.99
+28,28,Female,Clothing,1,35.99
+29,33,Male,Clothing,3,41.99
+30,30,Female,Home Decor,2,14.99
+31,39,Male,Clothing,2,48.99
+32,24,Female,Electronics,1,179.99
+33,35,Male,Home Decor,3,27.99
+34,48,Female,Clothing,2,57.99
+35,31,Male,Electronics,1,399.99
+36,40,Female,Home Decor,2,21.99
+37,32,Male,Electronics,1,499.99
+38,27,Female,Clothing,1,33.99
+39,32,Male,Clothing,3,37.99
+40,28,Female,Home Decor,2,16.99
+41,38,Male,Clothing,2,49.99
+42,23,Female,Electronics,1,189.99
+43,33,Male,Home Decor,3,20.99
+44,47,Female,Clothing,2,52.99
+45,30,Male,Electronics,1,329.99
+46,41,Female,Home Decor,2,23.99
+47,35,Male,Electronics,1,299.99
+48,29,Female,Clothing,1,29.99
+49,34,Male,Clothing,3,35.99
+50,31,Female,Home Decor,2,13.99
+51,40,Male,Clothing,2,47.99
+52,25,Female,Electronics,1,169.99
+53,34,Male,Home Decor,3,19.99
+54,46,Female,Clothing,2,56.99
+55,32,Male,Electronics,1,379.99
+56,42,Female,Home Decor,2,17.99
+57,36,Male,Electronics,1,279.99
+58,28,Female,Clothing,1,31.99
+59,33,Male,Clothing,3,33.99
+60,30,Female,Home Decor,2,12.99
+61,39,Male,Clothing,2,45.99
+62,24,Female,Electronics,1,159.99
+63,35,Male,Home Decor,3,24.99
+64,49,Female,Clothing,2,51.99
+65,32,Male,Electronics,1,329.99
+66,41,Female,Home Decor,2,22.99
+67,35,Male,Electronics,1,279.99
+68,29,Female,Clothing,1,27.99
+69,34,Male,Clothing,3,33.99
+70,31,Female,Home Decor,2,11.99
+71,40,Male,Clothing,2,45.99
+72,25,Female,Electronics,1,149.99
+73,34,Male,Home Decor,3,17.99
+74,46,Female,Clothing,2,54.99
+75,32,Male,Electronics,1,349.99
+76,42,Female,Home Decor,2,19.99
+77,36,Male,Electronics,1,299.99
+78,28,Female,Clothing,1,29.99
+79,33,Male,Clothing,3,35.99
+80,30,Female,Home Decor,2,10.99
+81,39,Male,Clothing,2,41.99
+82,24,Female,Electronics,1,139.99
+83,35,Male,Home Decor,3,16.99
+84,49,Female,Clothing,2,49.99
+85,32,Male,Electronics,1,329.99
+86,41,Female,Home Decor,2,20.99
+87,35,Male,Electronics,1,279.99
+88,29,Female,Clothing,1,25.99
+89,34,Male,Clothing,3,31.99
+90,31,Female,Home Decor,2,9.99
+91,40,Male,Clothing,2,39.99
+92,25,Female,Electronics,1,129.99
+93,34,Male,Home Decor,3,15.99
+94,46,Female,Clothing,2,52.99
+95,32,Male,Electronics,1,319.99
+96,42,Female,Home Decor,2,16.99
+97,36,Male,Electronics,1,269.99
+98,28,Female,Clothing,1,23.99
+99,33,Male,Clothing,3,29.99
+100,30,Female,Home Decor,2,8.99
+...
+101,39,Male,Clothing,2,37.99
+102,24,Female,Electronics,1,119.99
+103,35,Male,Home Decor,3,14.99
+104,49,Female,Clothing,2,47.99
+105,32,Male,Electronics,1,309.99
+106,41,Female,Home Decor,2,15.99
+107,35,Male,Electronics,1,259.99
+108,29,Female,Clothing,1,21.99
+109,34,Male,Clothing,3,27.99
+110,31,Female,Home Decor,2,7.99
+111,40,Male,Clothing,2,35.99
+112,25,Female,Electronics,1,109.99
+113,34,Male,Home Decor,3,13.99
+114,46,Female,Clothing,2,49.99
+115,32,Male,Electronics,1,299.99
+116,42,Female,Home Decor,2,14.99
+117,36,Male,Electronics,1,249.99
+118,28,Female,Clothing,1,19.99
+119,33,Male,Clothing,3,25.99
+120,30,Female,Home Decor,2,6.99
+121,39,Male,Clothing,2,33.99
+122,24,Female,Electronics,1,99.99
+123,35,Male,Home Decor,3,12.99
+124,49,Female,Clothing,2,45.99
+125,32,Male,Electronics,1,289.99
+126,41,Female,Home Decor,2,13.99
+127,35,Male,Electronics,1,239.99
+128,29,Female,Clothing,1,17.99
+129,34,Male,Clothing,3,23.99
+130,31,Female,Home Decor,2,5.99
+131,40,Male,Clothing,2,31.99
+132,25,Female,Electronics,1,89.99
+133,34,Male,Home Decor,3,10.99
+134,46,Female,Clothing,2,44.99
+135,32,Male,Electronics,1,269.99
+136,42,Female,Home Decor,2,11.99
+137,36,Male,Electronics,1,229.99
+138,28,Female,Clothing,1,15.99
+139,33,Male,Clothing,3,21.99
+140,30,Female,Home Decor,2,4.99
+141,39,Male,Clothing,2,29.99
+142,24,Female,Electronics,1,79.99
+143,35,Male,Home Decor,3,9.99
+144,49,Female,Clothing,2,41.99
+145,32,Male,Electronics,1,249.99
+146,41,Female,Home Decor,2,10.99
+147,35,Male,Electronics,1,219.99
+148,29,Female,Clothing,1,13.99
+...
+149,31,Female,Home Decor,2,3.99
+150,40,Male,Clothing,2,27.99
+151,25,Female,Electronics,1,69.99
+152,34,Male,Home Decor,3,8.99
+153,46,Female,Clothing,2,39.99
+154,32,Male,Electronics,1,229.99
+155,41,Female,Home Decor,2,9.99
+156,35,Male,Electronics,1,199.99
+157,29,Female,Clothing,1,11.99
+158,34,Male,Clothing,3,17.99
+159,31,Female,Home Decor,2,2.99
+160,40,Male,Clothing,2,25.99
+161,25,Female,Electronics,1,59.99
+162,34,Male,Home Decor,3,6.99
+163,46,Female,Clothing,2,37.99
+164,32,Male,Electronics,1,209.99
+165,41,Female,Home Decor,2,7.99
+166,35,Male,Electronics,1,189.99
+167,29,Female,Clothing,1,9.99
+168,34,Male,Clothing,3,15.99
+169,31,Female,Home Decor,2,1.99
+170,40,Male,Clothing,2,23.99
+171,25,Female,Electronics,1,49.99
+172,34,Male,Home Decor,3,4.99
+173,46,Female,Clothing,2,35.99
+174,32,Male,Electronics,1,189.99
+175,41,Female,Home Decor,2,5.99
+176,35,Male,Electronics,1,179.99
+177,29,Female,Clothing,1,7.99
+178,34,Male,Clothing,3,13.99
+179,31,Female,Home Decor,2,0.99
+180,40,Male,Clothing,2,21.99
+181,25,Female,Electronics,1,39.99
+182,34,Male,Home Decor,3,2.99
+183,46,Female,Clothing,2,33.99
+184,32,Male,Electronics,1,169.99
+185,41,Female,Home Decor,2,3.99
+186,35,Male,Electronics,1,159.99
+187,29,Female,Clothing,1,5.99
+188,34,Male,Clothing,3,11.99
+189,31,Female,Home Decor,2,0.99
+190,40,Male,Clothing,2,19.99
+191,25,Female,Electronics,1,29.99
+192,34,Male,Home Decor,3,1.99
+193,46,Female,Clothing,2,31.99
+194,32,Male,Electronics,1,149.99
+195,41,Female,Home Decor,2,2.99
+196,35,Male,Electronics,1,139.99
+197,29,Female,Clothing,1,3.99
+198,34,Male,Clothing,3,9.99
+199,31,Female,Home Decor,2,0.99
+200,40,Male,Clothing,2,17.99
+...
+201,25,Female,Electronics,1,19.99
+202,34,Male,Home Decor,3,0.99
+203,46,Female,Clothing,2,29.99
+204,32,Male,Electronics,1,139.99
+205,41,Female,Home Decor,2,1.99
+206,35,Male,Electronics,1,129.99
+207,29,Female,Clothing,1,3.99
+208,34,Male,Clothing,3,7.99
+209,31,Female,Home Decor,2,0.99
+210,40,Male,Clothing,2,15.99
+211,25,Female,Electronics,1,9.99
+212,34,Male,Home Decor,3,0.99
+213,46,Female,Clothing,2,27.99
+214,32,Male,Electronics,1,129.99
+215,41,Female,Home Decor,2,0.99
+216,35,Male,Electronics,1,119.99
+217,29,Female,Clothing,1,2.99
+218,34,Male,Clothing,3,5.99
+219,31,Female,Home Decor,2,0.99
+220,40,Male,Clothing,2,13.99
+221,25,Female,Electronics,1,5.99
+222,34,Male,Home Decor,3,0.99
+223,46,Female,Clothing,2,25.99
+224,32,Male,Electronics,1,119.99
+225,41,Female,Home Decor,2,0.99
+226,35,Male,Electronics,1,109.99
+227,29,Female,Clothing,1,1.99
+228,34,Male,Clothing,3,3.99
+229,31,Female,Home Decor,2,0.99
+230,40,Male,Clothing,2,11.99
+231,25,Female,Electronics,1,3.99
+232,34,Male,Home Decor,3,0.99
+233,46,Female,Clothing,2,23.99
+234,32,Male,Electronics,1,109.99
+235,41,Female,Home Decor,2,0.99
+236,35,Male,Electronics,1,99.99
+237,29,Female,Clothing,1,0.99
+238,34,Male,Clothing,3,1.99
+239,31,Female,Home Decor,2,0.99
+240,40,Male,Clothing,2,9.99
+241,25,Female,Electronics,1,1.99
+242,34,Male,Home Decor,3,0.99
+243,46,Female,Clothing,2,21.99
+244,32,Male,Electronics,1,99.99
+245,41,Female,Home Decor,2,0.99
+246,35,Male,Electronics,1,89.99
+247,29,Female,Clothing,1,0.99
+248,34,Male,Clothing,3,0.99
+249,31,Female,Home Decor,2,0.99
+250,40,Male,Clothing,2,1.99
+...
+251,25,Female,Electronics,1,0.99
+252,34,Male,Home Decor,3,0.99
+253,46,Female,Clothing,2,19.99
+254,32,Male,Electronics,1,89.99
+255,41,Female,Home Decor,2,0.99
+256,35,Male,Electronics,1,79.99
+257,29,Female,Clothing,1,0.99
+258,34,Male,Clothing,3,0.99
+259,31,Female,Home Decor,2,0.99
+260,40,Male,Clothing,2,7.99
+261,25,Female,Electronics,1,0.99
+262,34,Male,Home Decor,3,0.99
+263,46,Female,Clothing,2,17.99
+264,32,Male,Electronics,1,79.99
+265,41,Female,Home Decor,2,0.99
+266,35,Male,Electronics,1,69.99
+267,29,Female,Clothing,1,0.99
+268,34,Male,Clothing,3,0.99
+269,31,Female,Home Decor,2,0.99
+270,40,Male,Clothing,2,5.99
+271,25,Female,Electronics,1,0.99
+272,34,Male,Home Decor,3,0.99
+273,46,Female,Clothing,2,15.99
+274,32,Male,Electronics,1,69.99
+275,41,Female,Home Decor,2,0.99
+276,35,Male,Electronics,1,59.99
+277,29,Female,Clothing,1,0.99
+278,34,Male,Clothing,3,0.99
+279,31,Female,Home Decor,2,0.99
+280,40,Male,Clothing,2,3.99
+281,25,Female,Electronics,1,0.99
+282,34,Male,Home Decor,3,0.99
+283,46,Female,Clothing,2,13.99
+284,32,Male,Electronics,1,59.99
+285,41,Female,Home Decor,2,0.99
+286,35,Male,Electronics,1,49.99
+287,29,Female,Clothing,1,0.99
+288,34,Male,Clothing,3,0.99
+289,31,Female,Home Decor,2,0.99
+290,40,Male,Clothing,2,1.99
+291,25,Female,Electronics,1,0.99
+292,34,Male,Home Decor,3,0.99
+293,46,Female,Clothing,2,11.99
+294,32,Male,Electronics,1,49.99
+295,41,Female,Home Decor,2,0.99
+296,35,Male,Electronics,1,39.99
+297,29,Female,Clothing,1,0.99
+298,34,Male,Clothing,3,0.99
+299,31,Female,Home Decor,2,0.99
+300,40,Male,Clothing,2,0.99
